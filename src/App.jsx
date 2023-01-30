@@ -9,7 +9,7 @@ function App () {
   return (
     <div className='App'>
       <ReactPlayer
-        url={'https://vps.blady.dev/live/dog/index.mpd'}
+        url={'https://vps.blady.dev/live/dog/index.m3u8'}
         controls={true}
       />
     </div>
